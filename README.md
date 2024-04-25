@@ -1,5 +1,6 @@
 
-![4(1)](https://github.com/airaperez/airaperez/assets/110292677/4a0e3223-3abf-4c51-8a79-4030e809a133)
+![Github banner](https://github.com/airaperez/airaperez/assets/110292677/798996f5-2c2e-45e7-b906-7b214664f561)
+
 
 <!--
 **airaperez/airaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
