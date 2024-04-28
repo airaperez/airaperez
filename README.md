@@ -17,7 +17,7 @@ Hello! I am a graduating BS Statistics student from UP Diliman with a passion to
 * `R Programming` : Tidyverse, olsrr, ggplot2, RMarkdown
 * `SQL` : data querying, subqueries, CTE, data manipulation, table joins, window functions
 * `MS Excel and Google Sheets` : Power Query, pivot tables, lookups, conditional formatting, data validation
-* Statistics, data cleaning, data analysis, and data visualization
+* Statistical inference, data cleaning, data analysis, and data visualization
 
 ## :black_nib: Projects
 * Explore my **`data portfolio`** where I showcase my skills **[here](https://github.com/airaperez/Portfolio-Projects)**
