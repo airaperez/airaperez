@@ -1,6 +1,6 @@
 ![Github banner](https://github.com/airaperez/airaperez/assets/110292677/798996f5-2c2e-45e7-b906-7b214664f561)
 
-Hello! I am a graduating BS Statistics student from UP Diliman with a passion to unravel stories within data and lead data-driven decisions.
+Hello! I am a BS Statistics graduate from UP Diliman with a passion to unravel stories within data and lead data-driven decisions.
 
 ## :computer: Technical Skills
 
